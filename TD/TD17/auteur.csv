@@ -1,0 +1,5 @@
+"num","nom","prenom","date_naissance","description"
+"1","GRAVOUIL","BENJAMIN","2084-11-02","Un super prof ! "
+"2","nomauteur2","prenomauteur2",NULL,"sans description. blablalbllalbla"
+"3","nomauteur3","prenomauteur3",NULL,"sans description. blablalbllalbla"
+"4","nomauteur4",NULL,NULL,NULL
