@@ -19,6 +19,8 @@ async function storage() {
         });
     });
 }
+
+
 /*
 async function load(tab) {
     await chrome.scripting.insertCSS({

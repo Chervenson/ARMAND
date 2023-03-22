@@ -4,6 +4,10 @@
         box-sizing: border-box;
         font-size: 16px;
     }*/
+header {
+    text-align: center;
+
+}
 
 body {
     font-family: 'Roboto', sans-serif;

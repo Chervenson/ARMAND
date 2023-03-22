@@ -43,3 +43,29 @@ aside {
     color: white;
     font-size: 0.9em;
 }
+
+.imgs {
+    /* font-family: "Google Sans", Roboto, Arial, sans-serif;
+    line-height: 2.25rem;
+    font-size: 1.75rem;
+    letter-spacing: 0;
+    font-weight: 400;
+    hyphens: auto;
+    word-break: break-word;
+    word-wrap: break-word;
+    color: rgb(32, 33, 36);*/
+    text-align: center;
+}
+
+/*.test {
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    line-height: 2.25rem;
+    font-size: 1.75rem;
+    letter-spacing: 0;
+    font-weight: 300;
+    hyphens: auto;
+    word-break: break-word;
+    word-wrap: break-word;
+    color: rgb(32, 33, 36);
+    text-align: center;
+}*/
